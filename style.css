@@ -14,7 +14,7 @@ h1,h2,h3,h4 {
     background-color: blanchedalmond;
 }
 
-ul,ol,li{
+ul,ol,li,.content{
     background-color: antiquewhite;
 }
 
@@ -23,7 +23,6 @@ ul,ol,li{
 }
 
 .HobbiesDiv,.SkillsDiv{
-    border: solid red 5px;
     padding: 10px 20px 30px;
 }
 
